@@ -36,124 +36,127 @@
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
-        <nav class="navbar navbar-inverse navbar-fixed-top navbarText" role="navigation">
-            <div class="navbar-header">
-                <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand info-brand" href="#">Ternium</a>
-            </div>
+        <div class="content-header">
+            <nav class="navbar navbar-inverse navbar-fixed-top navbarText" role="navigation">
+                <div class="navbar-header">
+                    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand info-brand" href="#">Ternium</a>
+                </div>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse bs-navbar-collapse">
-                <!-- <p class="navbar-text info-linea">
-                    @ViewBag.Title / @ViewBag.Linea
-                </p> -->
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <button type="button" class="btn btn-default navbar-btn" data-toggle="modal" data-target="#mdlUbicaciones">
-                            <span class="glyphicon glyphicon-globe">
-                        </button>
-                    </li>
-                    <li>
-                        <button type="button" class="btn btn-default navbar-btn">
-                            <span class="glyphicon glyphicon-flash">
-                        </button>
-                    </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                            Aplicaciones <b class="caret"></b>
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li class="dropdown-submenu">
-                                <a tabindex="-1" href="#">SIO</a>
-                                <ul class="dropdown-menu float-right">
-                                    <li class="dropdown-submenu">
-                                        <a href="#">Producción</a>
-                                        <ul class="dropdown-menu float-right">
-                                            <li><a href="#">Producción</a></li>
-                                            <li><a href="#">Programación</a></li>
-                                            <li><a href="#">Programación vs Real</a></li>
-                                            <li><a href="#">Materiales disponibles</a></li>
-                                            <li><a href="#">Reportes</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown-submenu">
-                                        <a href="#">Mantenimiento</a>
-                                        <ul class="dropdown-menu float-right">
-                                            <li><a href="#">Trendings</a></li>
-                                            <li><a href="#">Histórico de alarmas</a></li>
-                                            <li><a href="#">Histórico de comandos</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown-submenu">
-                                        <a href="#">Calidad</a>
-                                        <ul class="dropdown-menu float-right">
-                                            <li><a href="#">Producción integrada</a></li>
-                                            <li><a href="#">Análisis de gráficas</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="#">SCD</a></li>
-                            <li><a href="#">SGL</a></li>
-                            <li><a href="#">DOC</a></li>
-                            <li><a href="#">SCL</a></li>
-                            <li><a href="#">SGA</a></li>
-                            <li><a href="#">CIPP</a></li>
-                            <li><a href="#">SGT</a></li>
-                            <li><a href="#">SGR</a></li>
-                            <li><a href="#">SID</a></li>
-                            <li><a href="#">IDP</a></li>
-                            <li><a href="#">TDS</a></li>
-                            <li><a href="#">TIN</a></li>
-                            <li><a href="#">GMA</a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </div><!-- /.navbar-collapse -->
-        </nav>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse bs-navbar-collapse">
+                    <!-- <p class="navbar-text info-linea">
+                        @ViewBag.Title / @ViewBag.Linea
+                    </p> -->
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <button type="button" class="btn btn-default navbar-btn" data-toggle="modal" data-target="#mdlUbicaciones">
+                                <span class="glyphicon glyphicon-globe">
+                            </button>
+                        </li>
+                        <li>
+                            <button type="button" class="btn btn-default navbar-btn">
+                                <span class="glyphicon glyphicon-flash">
+                            </button>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                Aplicaciones <b class="caret"></b>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li class="dropdown-submenu">
+                                    <a tabindex="-1" href="#">SIO</a>
+                                    <ul class="dropdown-menu float-right">
+                                        <li class="dropdown-submenu">
+                                            <a href="#">Producción</a>
+                                            <ul class="dropdown-menu float-right">
+                                                <li><a href="#">Producción</a></li>
+                                                <li><a href="#">Programación</a></li>
+                                                <li><a href="#">Programación vs Real</a></li>
+                                                <li><a href="#">Materiales disponibles</a></li>
+                                                <li><a href="#">Reportes</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <a href="#">Mantenimiento</a>
+                                            <ul class="dropdown-menu float-right">
+                                                <li><a href="#">Trendings</a></li>
+                                                <li><a href="#">Histórico de alarmas</a></li>
+                                                <li><a href="#">Histórico de comandos</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <a href="#">Calidad</a>
+                                            <ul class="dropdown-menu float-right">
+                                                <li><a href="#">Producción integrada</a></li>
+                                                <li><a href="#">Análisis de gráficas</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a href="#">SCD</a></li>
+                                <li><a href="#">SGL</a></li>
+                                <li><a href="#">DOC</a></li>
+                                <li><a href="#">SCL</a></li>
+                                <li><a href="#">SGA</a></li>
+                                <li><a href="#">CIPP</a></li>
+                                <li><a href="#">SGT</a></li>
+                                <li><a href="#">SGR</a></li>
+                                <li><a href="#">SID</a></li>
+                                <li><a href="#">IDP</a></li>
+                                <li><a href="#">TDS</a></li>
+                                <li><a href="#">TIN</a></li>
+                                <li><a href="#">GMA</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </nav>
 
-        <section>
-            <ol class="breadcrumb">
-            @RenderSection("Breadcrumbs", false)
-            </ol>
-        </section>
 
-        <div class="container">
-            @{
-                if(ViewBag.conToolbar){
-                    <section>
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                <div id="divToolbarContainer">
-                                    <div class="contenedorGeneralFiltro">
-                                        <div class="contenedorFiltroColapsable">
-                                            <span>@ViewBag.TitleToolbar</span>
-                                        </div>
+            <section>
+                <ol class="breadcrumb">
+                @RenderSection("Breadcrumbs", false)
+                </ol>
+            </section>
 
-                                        <div class="contenidoFiltros">
-                                            <div class="container">
-                                                <div class="row">
-                                                    <div class="col-xs-11 col-sm-11 col-md-11 col-lg-11 color3">
-                                                        <div id="divToolbar">
-                                                            @RenderSection("Toolbar", true)
+            <div class="container">
+                @{
+                    if(ViewBag.conToolbar){
+                        <section>
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                    <div id="divToolbarContainer">
+                                        <div class="contenedorGeneralFiltro">
+                                            <div class="contenedorFiltroColapsable">
+                                                <span>@ViewBag.TitleToolbar</span>
+                                            </div>
+
+                                            <div class="contenidoFiltros">
+                                                <div class="container">
+                                                    <div class="row">
+                                                        <div class="col-xs-11 col-sm-11 col-md-11 col-lg-11 color3">
+                                                            <div id="divToolbar">
+                                                                @RenderSection("Toolbar", true)
+                                                            </div>
+
                                                         </div>
-
-                                                    </div>
-                                                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 color4">
-                                                        <div id="divToolbarButtonRight">
-                                                                @RenderSection("ToolbarButtonRight", false)
+                                                        <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 color4">
+                                                            <div id="divToolbarButtonRight">
+                                                                    @RenderSection("ToolbarButtonRight", false)
+                                                            </div>
                                                         </div>
                                                     </div>
-                                                </div>
-                                                <div class="row">
-                                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 color5">
-                                                        <div id="divToolbarButtonBottom">
-                                                            @RenderSection("ToolbarButtonBottom", false)
+                                                    <div class="row">
+                                                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 color5">
+                                                            <div id="divToolbarButtonBottom">
+                                                                @RenderSection("ToolbarButtonBottom", false)
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -162,11 +165,13 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </section>
+                        </section>
+                    }
                 }
-            }
+            </div>
+        </div>
 
+        <div class="container content-main">
             <section>
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 color1">
@@ -178,7 +183,7 @@
             </section>
         </div>
 
-        <div class="container">
+        <div class="container content-footer">
             <footer>
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 color2">

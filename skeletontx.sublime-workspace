@@ -1,0 +1,636 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"sf2PHp",
+				"sf2PhpFunction	sf2PhpFunction"
+			],
+			[
+				"sf2php",
+				"sf2PhpFunction	sf2PhpFunction"
+			],
+			[
+				"sf2Php",
+				"sf2PhpFunction	sf2PhpFunction"
+			],
+			[
+				"sf2EntityRe",
+				"sf2EntityRelManyToOne	sf2EntityRelManyToOne"
+			],
+			[
+				"sf2EntityFiel",
+				"sf2EntityFieldDecimal	sf2EntityFieldDecimal"
+			],
+			[
+				"sf2EntityFi",
+				"sf2EntityFieldString	sf2EntityFieldString"
+			],
+			[
+				"sf2En",
+				"sf2EntityIntegerField	sf2EntityIntegerField"
+			],
+			[
+				"blo",
+				"blogPosts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "skeletontx/Views/Shared/_Layout.cshtml",
+			"settings":
+			{
+				"buffer_size": 12192,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "skeletontx/Scripts/ternium/layout.js",
+			"settings":
+			{
+				"buffer_size": 219,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "skeletontx/Content/ternium/layout.css",
+			"settings":
+			{
+				"buffer_size": 3272,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "skeletontx/Content/ternium/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 894,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "skeletontx/Views/Home/Index.cshtml",
+			"settings":
+			{
+				"buffer_size": 3020,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/REPO/tecnoap/oportunidades de negocio/Greenfield Tenaris en Houston. Expansión Tecnoap.txt",
+			"settings":
+			{
+				"buffer_size": 7941,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"sni",
+				"Snippet: Twig : If"
+			],
+			[
+				"snii",
+				"Snippet: Bootstrap info button"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/DOTNET/skeletontx/initializr/robots.txt",
+		"/C/DOTNET/skeletontx/initializr/humans.txt",
+		"/C/DOTNET/skeletontx/initializr/index.html",
+		"/C/DOTNET/skeletontx/initializr/css/normalize.css",
+		"/C/DOTNET/skeletontx/initializr/css/main.css",
+		"/C/DOTNET/skeletontx/initializr-verekia-4.0/initializr/index.html",
+		"/C/DOTNET/skeletontx/initializr-verekia-4.0/initializr/css/main.css",
+		"/C/DOTNET/SGA/SitioNew/bootstrap-3.0.1-dist/dist/bootsrap/bootstrap.css",
+		"/C/DOTNET/SGA/SitioNew/bootstrap-3.0.1-dist/dist/bootsrap/bootstrap-theme.css",
+		"/C/REPO/libros y manuales/redacciones propias/20130604_Notas sobre ASP.NET MVC.txt",
+		"/C/DOTNET/SGR/Doc/modulo programacion/20130725_Notas Taller de Rodillos - Fabricio.txt",
+		"//termxtgmapp01/Primavera/Documentacion/Ternium/Sistemas/APPS/SGD/Certificacion Auto MOA Obra/20130729_Notas para formalizar",
+		"/C/DOTNET/SGA/SitioNew/SGD_ESTANDAR/Estandar/Views/Home/Index.cshtml",
+		"/C/REPO/tecnoap/capacitaciones/diplomados/201307_Diplomado en Liderazgo/20130731_Diplomado en Liderazgo - Notas.txt",
+		"/C/REPO/tecnoap/capacitaciones/diplomados/201307_Diplomado en Direccion de Proyectos/20130729_Diplomado en Direccion de Proyectos - Notas.txt",
+		"/C/DOTNET/SGA/SitioNew/tdreyno-iphone-style-checkboxes-v1.0.0-5-g1032aa9/tdreyno-iphone-style-checkboxes-1032aa9/style.css",
+		"/C/DOTNET/SGA/SitioNew/SGD_ESTANDAR/Estandar/Scripts/Estandar/estandar.js",
+		"/C/DOTNET/SGA/SitioNew/SGD_ESTANDAR/Estandar/Scripts/propio.js",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Content/Estandar/jquery.treeview.css",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Content/Estandar/jquery.qtip.css",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Content/Estandar/fixedTable.css",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Content/Estandar/estandar.css",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Content/Estandar/dd.css",
+		"/C/DOTNET/SGA/SitioNew/sga/sga/Content/Estandar/calendario.css",
+		"/C/DOTNET/SGA/SitioNew/SGD_ESTANDAR/Estandar/Content/Styles/Estandar/dd.css",
+		"/C/DOTNET/SGA/SitioNew/SGD_ESTANDAR/Estandar/Content/Styles/Estandar/fixedTable.css",
+		"/C/DOTNET/TX Layout-Twitter Bootstrap/Site/Layout/Library/datatable.cs",
+		"/C/Users/c.lsalin/Desktop/Reporte Alarmas/Pagina ejemplo/listado-inversiones.js",
+		"/C/Users/c.lsalin/Desktop/Reporte Alarmas/Pagina ejemplo/InversionController.cs",
+		"/C/Users/c.lsalin/Desktop/Reporte Alarmas/Pagina ejemplo/ListadoInversiones.cshtml",
+		"/C/Users/c.lsalin/Desktop/Reporte Alarmas/Pagina ejemplo/jquery.endless-scroll.js",
+		"/C/Users/c.lsalin/Desktop/Reporte Alarmas/Pruebas/20131005_INSERT_iv_histo_alarms_master-un mes.sql",
+		"/C/REPO/ternium/Tareas Diarias.txt",
+		"//termxtgmapp02/DOTNET/PROD/SCC/XML/MenuSuperior.config",
+		"/C/DOTNET/SGR/Doc/testing/integracion/20130903_Integracion N2A-N2B - Bitacora.txt",
+		"/C/Users/c.lsalin/Downloads/winmail.dat",
+		"/C/REPO/tecnoap/capacitaciones/diplomados/201307_ Diplomado en Liderazgo/20130731_Diplomado en Liderazgo - Notas.txt",
+		"//termxtgmapp02/DOTNET/PROD/SCC/web.config",
+		"/C/Users/c.lsalin/Desktop/TxToDo.TODO",
+		"/C/Users/c.lsalin/Desktop/Iconos SGR/Models/PSQ_SGR.edmx",
+		"/C/DOTNET/SGR/Site/Layout/Models/PSQ_SGR.edmx.bk.20130816",
+		"/C/DOTNET/SGR/Doc/modulo programacion/20130816_Integracion Modulo Programacion.txt",
+		"/C/DOTNET/SGR/Site/Layout/Models/PSQ_SGR.edmx",
+		"/C/Users/c.lsalin/Desktop/Iconos SGR/Models/PSQ_SGR.Designer.cs",
+		"/C/DOTNET/SGR/Site/Layout/Models/PSQ_SGR.Designer.cs",
+		"/C/DOTNET/web/scc/view/js/jquery.formatCurrency/jquery.formatCurrency-1.4.0.js",
+		"/C/Users/c.lsalin/Desktop/nuevos.html",
+		"/C/REPO/tecnoap/reuniones/20130730_Salvador Contreras - Feedback desempeño Bernardo Lorini.txt",
+		"/C/REPO/personal/capacitaciones/20130701_Programa de capacitaciones.txt",
+		"/C/REPO/tecnoap/sistemas/tama/20130611_Especificaciones.txt",
+		"/C/REPO/tecnoap/oportunidades de negocio/Greenfield Tenaris en Houston. Expansión Tecnoap.txt",
+		"//termxtgmapp01/Primavera/Documentacion/Ternium/Sistemas/APPS/SGD/HES Masiva/20130619_Notas para desarrollos de HES Masiva.txt",
+		"/C/REPO/tecnoap/reuniones/20130806_Salvador Contreras - Examen N1.txt",
+		"/C/DOTNET/Doc/SRG/modulo programacion/20130725_Notas Taller de Rodillos - Fabricio.txt",
+		"/C/REPO/tecnoap/reuniones/20130801_Ricardo Vargas - Dudas varias.txt",
+		"/C/REPO/libros y manuales/asp.net mvc/Temas Avanzados Net Rosario/Info (Actualizado el 11_12_2012).txt",
+		"//10.210.19.61/scc/PRODUCCION/XML/MenuSuperior.config",
+		"//termxtgmapp01/Primavera/Documentacion/Ternium/Sistemas/APPS/SGR/documentacion/modulo programacion/20130725_Notas Taller de Rodillos - Fabricio.txt",
+		"//termxtgmapp01/Primavera/Documentacion/Ternium/Sistemas/APPS/SCC/web.config.cambios.txt",
+		"//termxtgmapp01/Primavera/Documentacion/Ternium/Sistemas/Servidores/20111216_datos_servers_pesqueria.txt",
+		"/C/DOTNET/web/scc_v2.1.8-d/view/web.config",
+		"/C/DOTNET/web/scc_v2.1.7/view/web.config",
+		"//10.210.19.61/scc/PRODUCCION/web.config",
+		"/C/REPO/programas/EPPlus/EPPlus 3.1.3/readme.txt",
+		"/C/Users/c.lsalin/Desktop/20130702143258_libroAnalista_Pesqueria - TX_Infraestructura y servicios_Infraestructura_P.301.1625.100.01-201305.xlsx",
+		"/C/Users/c.lsalin/Desktop/prueba.html",
+		"/C/REPO/familiares/expatriacion mex 2011/compra casa/20130624_Pendientes.txt",
+		"/C/REPO/familiares/expatriacion mex 2011/compra casa/20130621_Pautas y revisiones.txt",
+		"/C/DOTNET/bd/scc_v2.1.8-m/scc/scc.dbproj",
+		"/C/DOTNET/bd/scc_v2.1.8-m/scc.sln",
+		"/C/Users/c.lsalin/Desktop/sinError.html",
+		"/C/Users/c.lsalin/Desktop/conError.html",
+		"/C/REPO/familiares/documentos/2013_Salarios minimos prestamos en MJ.txt",
+		"/C/REPO/tecnoap/sistemas/tama/20130611_Especificaciones",
+		"/C/DOTNET/web/testProjectMvc1/testProjectMvc1/App_Data/Movies.sdf",
+		"/C/DOTNET/web/scc/scc.sln",
+		"/C/DOTNET/web/scc_v2.1.5/scc.sln",
+		"/C/DOTNET/web/scc_v2.1.7/scc.sln",
+		"/C/PHP/saltos/code/xml/config.xml",
+		"/C/PHP/saltos/readme.txt",
+		"/C/PHP/saltos/code/install/xml/config.xml",
+		"/C/PHP/saltos/code/index.php",
+		"/C/PHP/saltos/code/install/xml.php",
+		"/C/PHP/saltos/code/xml.php",
+		"/C/PHP/saltos/user/xml/datacfg.xml",
+		"/C/PHP/saltos/user/xml/maincfg.xml",
+		"/C/Users/c.lsalin/Desktop/Mancuerna x 5 kg (2)",
+		"/C/DOTNET/web/scc/view/web.config",
+		"/C/REPO/personal/running/alimentacion/20130415_Seguimiento comidas.txt",
+		"/C/Users/c.lsalin/Desktop/Problema con Excel y Regionalizacion en SCC/GridviewExportUtil.vb",
+		"/D/Crack/INFO.txt",
+		"/D/Crack/install.txt",
+		"//hades/soporte/Windows 7 enterprice y office 2010 professional plus/serie.txt",
+		"/C/PHP/symplefy/vendor/composer/ClassLoader.php",
+		"/C/PHP/symplefy/vendor/composer/autoload_real.php",
+		"/C/PHP/symplefy/vendor/autoload.php",
+		"/C/PHP/symplefy/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php",
+		"/C/PHP/symplefy/app/AppKernel.php",
+		"/C/Users/c.lsalin/Desktop/UniversalClassLoader.html",
+		"/C/PHP/symplefy/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/UniversalClassLoader.php",
+		"/C/PHP/symplefy/app/autoload.php",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2YamlService.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2YamlRoute.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2TwigExtension.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2PhpFunction.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2PhpComment.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2FormType.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityToString.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityRepository.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityRelManyToMany.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityRelManyToOne.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityRelOneToMany.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityFieldText.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityFieldString.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityFieldInteger.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityFieldId.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityFieldDecimal.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityFieldDatetime.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityFieldBool.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityAssertType.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityAssertTrue.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityAssertNonBlank.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityAssertLength.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityAssertMaxLength.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2EntityAssertMinLength.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2Entity.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2ControllerUseTemplate.sublime-snippet",
+		"/C/Users/c.lsalin/AppData/Roaming/Sublime Text 2/Packages/User/sf2ControllerUseRoute.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"}*@\n",
+			"-md-\n",
+			"\">\n",
+			"hUbicaciones",
+			"../../Images",
+			"../../Images/Estandar",
+			"siteURL",
+			"inicio",
+			"fht-tbody",
+			"cargarGrilla",
+			"GO",
+			"funcional",
+			"interesado",
+			"obtener_programacion_linea_Result",
+			"obtener_ubicaciones_x_estado_x_linea_Result",
+			"obtener_ubicaciones_x_estado_x_linea",
+			"EntityContainerMapping",
+			"insertar_programacion_linea",
+			"actualizar_programacion_linea",
+			"entityconta",
+			"Mappings",
+			"actualizar_programacion_linea",
+			"StorageModels",
+			"obtener_ubicaciones_x_estado_x_linea",
+			"obtener_programacion_linea_estados",
+			"obtener_programacion_linea",
+			"obtener_programa_linea",
+			"obtener_grupos_rodillos",
+			"obtener_estado_programa_proceso",
+			"obtener_estado_programa_finalizado",
+			"obtener_conjuntos_rodillos",
+			"insertar_programacion_linea",
+			"actualizar_programacion_linea",
+			"obtener_programacion_linea_estados_Result",
+			"obtener_programacion_linea_estados",
+			"obtener_programa_linea",
+			"obtener_grupos_rodillos",
+			"obtener_estado_programa_proceso",
+			"obtener_estado_programa_finalizado",
+			"insertar_programacion_linea",
+			"actualizar_programacion_linea",
+			"obtener_ubicaciones_x_estado_x_linea",
+			"obtener_programacion_linea_estados",
+			"obtener_programacion_linea",
+			"obtener_programa_linea",
+			"obtener_grupos_rodillos",
+			"obtener_estado_programa_proceso",
+			"obtener_conjuntos_rodillos",
+			"insertar_programacion_linea",
+			"-\n",
+			"periodos",
+			"ignor*",
+			"ignor",
+			"ignore",
+			"spLibroAnalistaAbrePeriodo",
+			"ComposerAutoloaderInit4d2f4d5f85789f71313cdea10474926e",
+			"loadClass",
+			"registerNamespace",
+			"registerNAmespace",
+			"globalization",
+			"whichComposer",
+			"checkComposer",
+			"composer",
+			"ComposerAdapter",
+			"$composer",
+			"could not find",
+			"\n     ",
+			"id",
+			"integer",
+			"assert",
+			";\n",
+			"cata_pol",
+			"ComposerAutoloaderInit897e3fc917a5e3385fa77b8987e9456f",
+			"colapsar",
+			"GrillaMaster",
+			"htdocs",
+			"\\u0027"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"images",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "skeletontx/Views/Shared/_Layout.cshtml",
+					"settings":
+					{
+						"buffer_size": 12192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2795,
+								2795
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 662.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "skeletontx/Scripts/ternium/layout.js",
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "skeletontx/Content/ternium/layout.css",
+					"settings":
+					{
+						"buffer_size": 3272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1142,
+								1142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 668.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "skeletontx/Content/ternium/bootstrap.css",
+					"settings":
+					{
+						"buffer_size": 894,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								891,
+								891
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "skeletontx/Views/Home/Index.cshtml",
+					"settings":
+					{
+						"buffer_size": 3020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2975,
+								2975
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Razor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 741.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/REPO/tecnoap/oportunidades de negocio/Greenfield Tenaris en Houston. Expansión Tecnoap.txt",
+					"settings":
+					{
+						"buffer_size": 7941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2533,
+								2533
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 187.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true
+}

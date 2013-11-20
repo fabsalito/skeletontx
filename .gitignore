@@ -1,0 +1,5 @@
+*.suo
+skeletontx/obj
+skeletontx/bin
+skeletontx/*.user
+skeletontx/*.csproj
